@@ -26,11 +26,6 @@ I think you got the idea!
 
 _Yes. Those three numbers above are exactly the same. Congratulations!_
 
-## Rust Installation
-
-Refer to the [exercism help page][help-page] for Rust installation and learning
-resources.
-
 ## Writing the Code
 
 Execute the tests with:
